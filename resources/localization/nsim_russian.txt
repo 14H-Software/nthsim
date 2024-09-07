@@ -1,0 +1,54 @@
+[nthsim]
+ns_OnClientInsecureStartup_Title=Insecure Session
+ns_OnClientInsecureStartup_Message=This embedded program is not allowed to run in insecure mode.
+ns_OnClientOfflineStartup_Title=Cannot achieve masterserver
+ns_OnClientOfflineStartup_Message=This embedded program is not allowed to run in Offline mode.
+ns_OnClientUnexpectedTournamentStartup_Title=Cannot find your tournaments
+ns_OnClientUnexpectedTournamentStartup_Message=You have launched the game in Tournament mode, but we cannot find any tounament data for you.
+ns_OnClientExpectedTournament_Title=Tournament Alert
+ns_OnClientExpectedTournamentStartup_Message=You have launched the game in normal mode, but you have an ongoing tournament.{plt:newline}Please restart game in Tournament mode.{plt:newline}If you need help with this, contact us.
+ns_OnClientExpectedTournamentQMM_Message=You cannot participate in Official Matchmaking games, while you have a ongoing tournament.{plt:newline}Please restart game in Tournament mode.{plt:newline}If you need help with this, contact us.
+
+mainmenu_nav_play_official=Начать Поиск
+mainmenu_nav_play_official_tournament=Присоединиться к Турниру
+mainmenu_nav_play_offline=Оффлайн Игра
+mainmenu_nav_play_quit=Выйти Из Игры
+
+match_ready_accept=ПРИНЯТЬ
+
+queuestats_connecting_to_gc=Подключение к серверам...
+queuestats_searching=Поиск свободных серверов...
+queuestats_confirming=Подтверждение игры...
+queuestats_waiting=ВАША ИГРА ГОТОВА!
+queuestats_starting_match=Начинаем матч......
+
+party_stop_matchmaking=ОТМЕНИТЬ ПОИСК
+
+game_loading_initializing=Загрузка...
+
+Console_Title=Консоль
+
+mainmenu_alert_out_of_date=Необходимо Обновление
+mainmenu_alert_cannot_queue=Ваш аккаунт не может участвовать в онлайн-играх
+mainmenu_alert_tourn_mode_expected=ПОЖАЛУЙСТА, ПЕРЕЗАПУСТИТЕ ИГРУ В ТУРНИРНОМ РЕЖИМЕ!
+mainmenu_alert_tourn_mode=ВЫ УЧАСТВУЕТЕ В ОФИЦИАЛЬНОМ ТУРНИРЕ!
+
+eom_win_desc=ПОБЕДА
+eom_loss_desc=ПОРАЖЕНИЕ
+eom_rank_desc=Опыт:
+eom_elo_desc=Ваш Рейтинг:
+eom_trnmt_desc=Турнирная игра завершена. В следующий раз, когда вас пригласят на турнирную игру, вы получите внутриигровое сообщение.
+eom_trnmt_desc_lower=Турнирная игра завершена. Чтобы играть через официальный матчмейкинг, перезапустите игру в обычном режиме.
+
+mm_rank_desc=Уровень/Опыт:
+mm_elo_desc=Рейтинг:
+
+tourn_popup_title=ВЫ УЧАСТВУЕТЕ В ТУРНИРЕ!!!
+tourn_popup_accept=ПРИНЯТЬ
+tourn_popup_agreement_title=ВЫ УЧАСТВУЕТЕ В ТУРНИРЕ! ВЫ ДОЛЖНЫ СОБЛЮДАТЬ ПРАВИЛА ТУРНИРА:
+tourn_popup_agreement_message=1. Никогда не мошенничайте{plt:newline}2. Играйте, чтобы победить{plt:newline}3. Выход из турнирной игры приведет к дисквалификации.
+
+trnmtname_00=14H(R) Test Tournament
+trnmtname_01=14H(R) End-Summer 2024 NTHSIM(R) Tounament
+trnmtname_02=14H(R) Mid-Fall 2024 NTHSIM(R) Tounament
+trnmtname_03=14H(R) New Year 2025 NTHSIM(R) Tounament

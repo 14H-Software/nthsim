@@ -1,0 +1,82 @@
+ >>> LOG START <<<
+[Client] Client initialized in TOURNAMENT mode.
+[Client] Confirmed tournament for client [#00000247]:
+[Client] #1057387	'14H(R) Test Tournament'
+[Client] Match start time: 	10/08/2024	18:00	GMT +2:00
+[Client] Confirmed match with MID:  [#1057387:0012]
+[Client] Testing datacenters for best connection...
+[Networking] Trying out datacenters...
+[Networking] Direct log:
+[Networking] ----------------------------------------
+
+	Available Datacenters:
+	Ping	Country		City	Name												ID			Servers Available		Servers with current app
+	01		UA			LV		14H(R) Internal Datacenter - Lviv, UA				hidden		12						2
+	14		UA			KH		14H(R) Datacenter - Kharkiv, UA						hidden		332						0
+	07		PL			WAW		14H(R) Datacenter - Warsaw, PL						hidden		1020					0
+	08		PL			WAW		14H(R) Internal Datacenter - Warsaw, PL				hidden		116						0
+	05		PL			WAW		14H(R) Internal Datacenter - Warsaw, PL	(nthsim2)	hidden		95						95
+	107		ES			MAD		14H(R) Datacenter - Madrid, ES						hidden		127						0
+	105		ES			MAD		14H(R) Internal Datacenter - Madrid, ES				hidden		90						0
+	136		ES			MAD		14H(R) Internal Datacenter - Madrid, ES	(nthsim2)	hidden		0						0
+	NONE	FR			PAR		14H(R) Datacenter - Paris, FR (unavailable)(01723)	hidden		UNDEFINED				UNDEFINED
+	NONE	FR			PAR		14H(R) Internal Datacenter - Paris, FR (u)(01723)	hidden		UNDEFINED				UNDEFINED
+	NONE	FR			PAR		14H(R) Internal Datacenter - Paris, FR (u)(01723)	hidden		UNDEFINED				UNDEFINED
+	
+	Available AHS Datacenters:
+	Ping	Country		City	Name												ID			Servers Available		Servers with current app
+	18		UA			KH		14H(R) AHS Datacenter - Kharkiv, UA					hidden		12510					Not Required
+	
+[Networking] ----------------------------------------
+[Networking] Confirmed best servers:
+[Networking] 	Tournament server:
+[Networking]		[14H(R) Internal Datacenter - Lviv, UA]=>[0001] (ID: [#A:PLT072_1208673])
+[Networking] 	AHS Server: Main
+[Networking] Connecting to server...
+[Networking] Connected to [#A:PLT072_1208673]
+[Server] Confirmed client [#00000247]
+[Client] Connected to Official Dedicated Server
+[Client] This server is hosted by 14H(R) Software, Inc.
+[Client] AHS will not filter the server-client packets as known secure.
+[Server] All clients connected.
+[Server] Countdown will now resume
+[Server] Match will start in 81 seconds
+[Server] Match starting in 15 seconds...
+[Server] Match starting!
+[Server] Team [##1] started technical timeout
+[Server] Timeout will last for 210 seconds
+[Server] Game will be live in 15 seconds...
+[Server] LIVE!!!
+[Server] TEAM [##2] WINS THE MATCH!!!
+[Server] Disconnecting clients.
+[Networking] Host [#A:PLT072_1208673] dropped the client [#00000247]
+[GC] Added XP to client
+[GC] XP 	:	[100] 		=> 		[600]	
+[GC] ELO 	:	[212500] 	=> 		[212500]
+[GC] LEVEL 	:	[60] 		=> 		[60]
+[Networking] Confirmed client data changes:
+[Networking] XP:
+[Networking] 	Old:	100
+[Networking] 	New:	600
+[Networking] #end
+[Networking] Tournament game is done. To continiue playing, restart the client with no '-tournament' launch option
+[Networking] Disconnecting from GC...
+[Client]				 
+[Client]				 
+[Client]				  TOURNAMENT MODE 
+[Client]				 
+[Client]		Client is running in tournament mode.
+[Client]		 There are no tournaments queued for
+[Client]		client [#00000247]. To play the game,
+[Client]	   restart the client with no '-tournament' 
+[Client]			       launch option
+[Client]				 
+[Client]	 Game is not connected to GC (masterserver)
+[Client]   You can play only offline matches in this mode
+[Client]				 
+[Client]				 
+[Matchmaking] 
+[Matchmaking] 	CANNOT QUEUE FOR A MATCH IN TOURNAMENT MODE!!!
+[Matchmaking] 
+] quit
+ >>> LOG END <<<

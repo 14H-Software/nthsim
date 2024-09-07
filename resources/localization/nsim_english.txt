@@ -1,0 +1,58 @@
+[nthsim]
+ns_OnClientInsecureStartup_Title=Insecure Session
+ns_OnClientInsecureStartup_Message=This embedded program is not allowed to run in insecure mode.
+ns_OnClientOfflineStartup_Title=Cannot achieve masterserver
+ns_OnClientOfflineStartup_Message=This embedded program is not allowed to run in Offline mode.
+ns_OnClientUnexpectedTournamentStartup_Title=Cannot find your tournaments
+ns_OnClientUnexpectedTournamentStartup_Message=You have launched the game in Tournament mode, but we cannot find any tounament data for you.
+ns_OnClientExpectedTournament_Title=Tournament Alert
+ns_OnClientExpectedTournamentStartup_Message=You have launched the game in normal mode, but you have an ongoing tournament.{plt:newline}Please restart game in Tournament mode.{plt:newline}If you need help with this, contact us.
+ns_OnClientExpectedTournamentQMM_Message=You cannot participate in Official Matchmaking games, while you have a ongoing tournament.{plt:newline}Please restart game in Tournament mode.{plt:newline}If you need help with this, contact us.
+
+mainmenu_nav_play_official=Start Search
+mainmenu_nav_play_official_tournament=Join Official Tournament
+mainmenu_nav_play_offline=Local Match
+mainmenu_nav_play_quit=Quit Game
+
+match_ready_accept=ACCEPT
+
+queuestats_connecting_to_gc=Connecting to servers...
+queuestats_searching=Searching for free servers...
+queuestats_confirming=Confirming match...
+queuestats_waiting=YOUR MATCH IS READY!
+queuestats_starting_match=Starting match...
+
+party_stop_matchmaking=CANCEL SEARCH
+
+game_loading_initializing=Loading...
+
+Console_Title=Console
+
+mainmenu_alert_out_of_date=Your Client Needs To Update
+mainmenu_alert_cannot_queue=Your Account cannot participate in online games
+mainmenu_alert_tourn_mode_expected=PLEASE RESTART GAME IN TOURNAMENT MODE!
+mainmenu_alert_tourn_mode=YOU ARE IN THE OFFICIAL TOURNAMENT!
+
+eom_win_desc=WIN
+eom_loss_desc=LOSS
+eom_rank_desc=Your XP Progress:
+eom_elo_desc=Your Raiting:
+eom_trnmt_desc=Tournament Game has finished. Next time you are invited to Tounament Game, you will recieve an in-game message.
+eom_trnmt_desc_lower=Tournament Game has finished. In order to play Official Matchmaking games, please restart the game in normal mode.
+
+mm_rank_desc=Level/XP:
+mm_elo_desc=Raiting:
+
+tourn_popup_title=YOU ARE IN THE TOURNAMENT!!!
+tourn_popup_accept=ACCEPT
+tourn_popup_agreement_title=YOU ARE PARTICIPATING A TOURNAMENT! YOU MUST FOLLOW NEXT TOURNAMENT RULES:
+tourn_popup_agreement_message=1. Never cheat{plt:newline}2. Play to win{plt:newline}3. Leaving the Tournament Game will cause disqualification and permanent ban
+
+trnmtname_00=14H(R) Test Tournament
+trnmtname_01=14H(R) End-Summer 2024 NTHSIM(R) Tounament
+trnmtname_02=14H(R) Mid-Fall 2024 NTHSIM(R) Tounament
+trnmtname_03=14H(R) New Year 2025 NTHSIM(R) Tounament
+
+license_missing_title=No Online License
+license_missing_desc=You do not currently own{plt:newline}Nothing Simulator{plt:newline}You need to purchase it{plt:newline}before playing it! 
+license_user_banned=You cannot play{plt:newline}Nothing Simulator,{plt:newline}because your{plt:newline}14H(R) account{plt:newline}is banned! 

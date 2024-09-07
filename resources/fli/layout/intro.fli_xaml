@@ -1,0 +1,19 @@
+<root>
+	<Styles>
+		<anim.base key="anim_main">
+			<anim.double anim.name="nslogo" anim.property="(UIElement.Effect).(BlurEffect.Radius)" anim.from="0" anim.to="150" anim.time="0:0:3.2" BeginTime="0:0:0.5" />
+			<anim.double anim.name="panel_cont" anim.property="Opacity" anim.from="1" anim.to="0" anim.time="0:0:3.2" BeginTime="0:0:0.5" />
+		</anim.base>
+	</Styles>
+	<Animations>
+		<flianim animation="anim_main" />
+	</Animations>
+	<Panel Width="1920" Height="1080" id="panel_cont" Opacity="1">
+		<Panel Background="#2F2F2F" />
+		<flictl:TextureControl id="nslogo" src="file://nthsim/resources/fli/images/nsimlogo.png" Height="200" Width="800">
+			<flictl:TextureControl.Effect>
+				<BlurEffect Radius="0" />
+			</flictl:TextureControl.Effect>
+		</flictl:TextureControl>
+	</Panel>
+</root>

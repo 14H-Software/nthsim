@@ -1,0 +1,5 @@
+<root>
+	<Panel Background="#313131" />
+	<Image src="file://nthsim/resources/fli/images/mainmenu_bg.png" />
+	<Panel Background="#81000000" />
+</root>
