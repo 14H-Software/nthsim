@@ -52,3 +52,7 @@ trnmtname_00=14H(R) Test Tournament
 trnmtname_01=14H(R) End-Summer 2024 NTHSIM(R) Tounament
 trnmtname_02=14H(R) Mid-Fall 2024 NTHSIM(R) Tounament
 trnmtname_03=14H(R) New Year 2025 NTHSIM(R) Tounament
+
+license_missing_title=Нет Онлайн-Лицензии
+license_missing_desc=В настоящее время у{plt:newline}вас нет лицензии на{plt:newline}Nothing Simulator.{plt:newline}Перед началом игры,{plt:newline}Вам необходимо{plt:newline}приобрести ее.
+license_user_banned=Вы не можете играть в{plt:newline}Nothing Simulator,{plt:newline}потому что ваш{plt:newline}аккаунт 14H(R) заблокирован!
